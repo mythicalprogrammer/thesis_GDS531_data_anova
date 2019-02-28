@@ -5,14 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1931347155",
+    "hash" : "2534633262",
     "id" : "C4ED264A",
-    "lastKnownWriteTime" : 1551344073,
-    "last_content_update" : 1551344073648,
+    "lastKnownWriteTime" : 1551391034,
+    "last_content_update" : 1551391034994,
     "path" : "~/Documents/csulb/thesis/1_data/Myeloma_cancer/1_EDA/00_packages.R",
     "project_path" : "00_packages.R",
     "properties" : {
         "cursorPosition" : "17,0",
+        "marks" : "<:13,-1\n>:13,0",
         "scrollLine" : "8",
         "tempName" : "Untitled1"
     },

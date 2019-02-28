@@ -3,3 +3,64 @@ fatal: not a git repository (or any of the parent directories): .git
 ]0;~/Documents/csulb/thesis/1_data/Myeloma_cancer/1_EDAAnthonys-MacBook-Pro-2:1_EDA anthonydoan$ git init
 Initialized empty Git repository in /Users/anthonydoan/Documents/csulb/thesis/1_data/Myeloma_cancer/1_EDA/.git/
 ]0;~/Documents/csulb/thesis/1_data/Myeloma_cancer/1_EDAAnthonys-MacBook-Pro-2:1_EDA anthonydoan$ git add .
+gi]0;~/Documents/csulb/thesis/1_data/Myeloma_cancer/1_EDAAnthonys-MacBook-Pro-2:1_EDA anthonydoan$ git commit -m "initial, di d every[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C  the i[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K,  did the explorar[Ktioni find [K[K[K[K[K[K[K find out n[Kthere are missing values and need imput ation. Maybe stratify the data but we'll see."
+[master (root-commit) 0c29140] initial, , did the exploration find out there are missing values and need imputation. Maybe stratify the data but we'll see.
+ 17 files changed, 13064 insertions(+)
+ create mode 100644 .Rproj.user/DE3A4F7B/console06/C1BA0056
+ create mode 100644 .Rproj.user/DE3A4F7B/console06/INDEX001
+ create mode 100644 .Rproj.user/DE3A4F7B/sources/prop/4BCCE6CA
+ create mode 100644 .Rproj.user/DE3A4F7B/sources/prop/6A96703A
+ create mode 100644 .Rproj.user/DE3A4F7B/sources/prop/INDEX
+ create mode 100644 .Rproj.user/DE3A4F7B/sources/s-BBC7A6A/C4ED264A
+ create mode 100644 .Rproj.user/DE3A4F7B/sources/s-BBC7A6A/C4ED264A-contents
+ create mode 100644 .Rproj.user/DE3A4F7B/sources/s-BBC7A6A/D9E724F7
+ create mode 100644 .Rproj.user/DE3A4F7B/sources/s-BBC7A6A/D9E724F7-contents
+ create mode 100644 .Rproj.user/DE3A4F7B/sources/s-BBC7A6A/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 00_packages.R
+ create mode 100644 10_preprocess.R
+ create mode 100644 1_EDA.Rproj
+ create mode 100644 raw_data/Experiment Descriptor file.csv
+ create mode 100644 raw_data/GDS531.csv
+]0;~/Documents/csulb/thesis/1_data/Myeloma_cancer/1_EDAAnthonys-MacBook-Pro-2:1_EDA anthonydoan$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/DE3A4F7B/console06/C1BA0056[m
+	[31mmodified:   .Rproj.user/DE3A4F7B/sources/prop/4BCCE6CA[m
+	[31mmodified:   .Rproj.user/DE3A4F7B/sources/prop/6A96703A[m
+	[31mmodified:   .Rproj.user/DE3A4F7B/sources/prop/INDEX[m
+	[31mmodified:   .Rproj.user/DE3A4F7B/sources/s-BBC7A6A/C4ED264A[m
+	[31mmodified:   .Rproj.user/DE3A4F7B/sources/s-BBC7A6A/C4ED264A-contents[m
+	[31mmodified:   .Rproj.user/DE3A4F7B/sources/s-BBC7A6A/D9E724F7[m
+	[31mmodified:   .Rproj.user/DE3A4F7B/sources/s-BBC7A6A/D9E724F7-contents[m
+	[31mmodified:   .Rproj.user/shared/notebooks/paths[m
+	[31mmodified:   00_packages.R[m
+	[31mmodified:   10_preprocess.R[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rproj.user/DE3A4F7B/console06/C1BA0056.env[m
+	[31m.Rproj.user/DE3A4F7B/sources/prop/12B9496B[m
+	[31m.Rproj.user/DE3A4F7B/sources/prop/875F5F43[m
+	[31m.Rproj.user/DE3A4F7B/sources/prop/B24FE148[m
+	[31m.Rproj.user/DE3A4F7B/sources/s-BBC7A6A/948331A8[m
+	[31m.Rproj.user/DE3A4F7B/sources/s-BBC7A6A/948331A8-contents[m
+	[31m.Rproj.user/DE3A4F7B/sources/s-BBC7A6A/BDE92FBD[m
+	[31m.Rproj.user/DE3A4F7B/sources/s-BBC7A6A/BDE92FBD-contents[m
+	[31m.Rproj.user/DE3A4F7B/sources/s-BBC7A6A/DA95D2A2-contents[m
+	[31m.Rproj.user/DE3A4F7B/sources/s-BBC7A6A/E7E4E69C[m
+	[31m.Rproj.user/DE3A4F7B/sources/s-BBC7A6A/E7E4E69C-contents[m
+	[31m20_imputation.R[m
+	[31m30_ANOVA_on_NA_col.R[m
+	[31m40_anova.R[m
+	[31mcleaned_data/[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Documents/csulb/thesis/1_data/Myeloma_cancer/1_EDAAnthonys-MacBook-Pro-2:1_EDA anthonydoan$ git [K[K[K[Kgit add .

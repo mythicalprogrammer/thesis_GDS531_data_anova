@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551397166866.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E7E4E69C",
+    "lastKnownWriteTime" : 1551397195,
+    "last_content_update" : 1551397195496,
+    "path" : "~/Documents/csulb/thesis/1_data/Myeloma_cancer/1_EDA/20_imputation.R",
+    "project_path" : "20_imputation.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "marks" : "<:31,44\n>:31,44",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -60,14 +60,12 @@ state1 <- sub("      without bone lytic lesion",
 state2 <- sub("      with bone lytic lesion",
               "W", GDS$disease.state[37:173])
 state <- c(state1, state2)
-GDS$state <- state
+GDS$state <- as.factor(state)
 
 # make sure the order is kept when renaming disease state
 print(GDS[,c("state","disease.state")])
 
 GDS$disease.state <- NULL
 
-# find which row are NA in each column
-which(is.na(GDS$`33273_f_at`))# 30
-which(is.na(GDS$`33500_i_at`))# 13  20  31  65 108 125 127 160
-which(is.na(GDS$`33501_r_at`)) # 5
+
+

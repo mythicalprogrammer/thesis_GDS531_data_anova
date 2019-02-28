@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551397423408.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3901442874",
+    "id" : "BDE92FBD",
+    "lastKnownWriteTime" : 1551397847,
+    "last_content_update" : 1551397847586,
+    "path" : "~/Documents/csulb/thesis/1_data/Myeloma_cancer/1_EDA/40_anova.R",
+    "project_path" : "40_anova.R",
+    "properties" : {
+        "cursorPosition" : "37,0",
+        "marks" : "<:27,20\n>:27,20",
+        "scrollLine" : "30",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
