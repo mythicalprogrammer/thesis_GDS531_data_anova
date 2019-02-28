@@ -1,0 +1,5 @@
+]0;~/Documents/csulb/thesis/1_data/Myeloma_cancer/1_EDA[?1034hAnthonys-MacBook-Pro-2:1_EDA anthonydoan$ [KAnthonys-MacBook-Pro-2:1_EDA anthonydoan$ git status
+fatal: not a git repository (or any of the parent directories): .git
+]0;~/Documents/csulb/thesis/1_data/Myeloma_cancer/1_EDAAnthonys-MacBook-Pro-2:1_EDA anthonydoan$ git init
+Initialized empty Git repository in /Users/anthonydoan/Documents/csulb/thesis/1_data/Myeloma_cancer/1_EDA/.git/
+]0;~/Documents/csulb/thesis/1_data/Myeloma_cancer/1_EDAAnthonys-MacBook-Pro-2:1_EDA anthonydoan$ git add .

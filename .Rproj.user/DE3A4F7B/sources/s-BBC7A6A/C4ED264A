@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551344063260.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1931347155",
+    "id" : "C4ED264A",
+    "lastKnownWriteTime" : 1551344073,
+    "last_content_update" : 1551344073648,
+    "path" : "~/Documents/csulb/thesis/1_data/Myeloma_cancer/1_EDA/00_packages.R",
+    "project_path" : "00_packages.R",
+    "properties" : {
+        "cursorPosition" : "17,0",
+        "scrollLine" : "8",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
